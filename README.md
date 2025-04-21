@@ -29,9 +29,7 @@ MediScan AI is a web-based application that analyzes medical reports using speci
 - Groq API key (get from [Groq Cloud](https://console.groq.com/))
 - pip package manager
 
-### Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/mediscan-ai.git
-   cd mediscan-ai
+## 🔗 Additional Resources
+- **linkden**: [Karim Farjam's Profile](https://www.linkedin.com/in/karim-farjam-a6b72549/).
+- **Kaggle Notebook**: Interested in a Kaggle environment? Check out the notebook [here](https://www.kaggle.com/parhamfarjam).
+- **LinkedIn**: [Karim Farjam's Profile](https://www.linkedin.com/in/karim-farjam-a6b72549/)
