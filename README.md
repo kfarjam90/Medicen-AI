@@ -1,4 +1,4 @@
-# MediScan AI - Smart Medical Report Analyzer
+# Medican AI - Smart Medical Report Analyzer
 
 ![MediScan AI Banner](image1.png)
 
