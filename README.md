@@ -1,6 +1,6 @@
 # MediScan AI - Smart Medical Report Analyzer
 
-![MediScan AI Banner](https://via.placeholder.com/800x200?text=MediScan+AI+-+Smart+Medical+Report+Analyzer)
+![MediScan AI Banner](image.png)
 
 MediScan AI is a web-based application that analyzes medical reports using specialized AI agents (Cardiologist, Psychologist, and Pulmonologist) and provides a comprehensive multidisciplinary diagnosis.
 
